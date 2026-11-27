@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+output/
+reports/
+data/attempts.csv
+data/quiz_history.csv
